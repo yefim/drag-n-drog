@@ -1,0 +1,10 @@
+#draggable-box {
+  width: 200px;
+  height: 100px;
+  background: black;
+  border: 20px solid coral;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  position: absolute;
+}
